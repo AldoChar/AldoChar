@@ -1,4 +1,4 @@
-# Hi, I’m Aldo 👋
+# Hi, I’m Aldo
 
 I am an Industrial Engineering student with a passion for automation and data, currently transitioning into an **AI Engineer** role. I combine a focus on business strategy and process optimization with the development of technological solutions.
 
