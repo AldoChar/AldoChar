@@ -11,3 +11,4 @@ I am an Industrial Engineering student with a passion for automation and data, c
 - Currently optimizing corporate processes and managing risks within the healthcare sector.
 - Developing automated workflows, interactive applications, and conversational agents for business use.
 - Exploring agentic architectures, PySpark, and data governance on Google Cloud Platform (GCP).
+- Git hub preparation
