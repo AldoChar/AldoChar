@@ -1,16 +1,13 @@
-## Hi there 👋
+# Hi, I’m Aldo 👋
 
-<!--
-**AldoChar/AldoChar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am an Industrial Engineering student with a passion for automation and data, currently transitioning into an **AI Engineer** role. I combine a focus on business strategy and process optimization with the development of technological solutions.
 
-Here are some ideas to get you started:
+## 🛠️ Tools and Technologies
+- **Data & Analytics:** Python, SQL, R, Power Query, Tableau, Minitab
+- **Automation & AI:** Microsoft Power Platform (Power BI, Power Automate, Power Apps), Copilot Studio, AppSheet
+- **Management:** Risk Assessment, Process Optimization, MS Project
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+- 🏢 Currently optimizing corporate processes and managing risks within the healthcare sector.
+- 🤖 Developing automated workflows, interactive applications, and conversational agents for business use.
+- 📚 Exploring agentic architectures, PySpark, and data governance on Google Cloud Platform (GCP).
